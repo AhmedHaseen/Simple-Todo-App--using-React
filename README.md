@@ -1,0 +1,1 @@
+A simple and interactive To-Do List application built with React.js. Includes features like adding, deleting, and marking tasks as completed. Demonstrates use of useState, useRef, useEffect, and localStorage for persistent data.
